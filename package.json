@@ -1,0 +1,22 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "A full-stack real-time collaborative chat application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) that allows users to work in project-based rooms with **collaborators**, **live chat**, and **AI-powered assistant** powered by the **Gemini API**.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "cd backend && npm start"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silkirai1812/realtimeAIChatApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silkirai1812/realtimeAIChatApp/issues"
+  },
+  "homepage": "https://github.com/silkirai1812/realtimeAIChatApp#readme"
+}
