@@ -6,7 +6,6 @@
   "scripts": {
     "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend",
     "start": "cd backend && npm start"
-
   },
   "repository": {
     "type": "git",
@@ -18,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/silkirai1812/realtimeAIChatApp/issues"
   },
-  "homepage": "https://github.com/silkirai1812/realtimeAIChatApp#readme"
+  "homepage": "https://github.com/silkirai1812/realtimeAIChatApp#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
 }
