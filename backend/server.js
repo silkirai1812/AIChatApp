@@ -12,7 +12,7 @@ import path from 'path';
 
 const port = process.env.PORT || 3000;
 
-const __filename = fileURLToPath(import.meta.url);
+// const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.resolve();
 
 const server = http.createServer(app);
