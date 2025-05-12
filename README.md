@@ -12,6 +12,7 @@ A full-stack real-time collaborative chat application built with the **MERN stac
 - 🌲 **File Tree & Code Editor**:
   - Create & edit project files with syntax highlighting.
   - AI-generated file trees are directly editable.
+- 🖥️ **Live Code Execution**: Spin up an in-browser WebContainer and run your app.
 - 🎨 **Markdown + Code Highlighting** in AI responses.
 
 ## 🧑‍💻 Tech Stack
@@ -83,6 +84,11 @@ Once both the frontend and backend servers are running, you can start exploring 
 - Browse the file tree on the left sidebar.
 - Click a file to open it in the editor.
 - Modify file contents; changes are saved and can be shared with collaborators.
+
+### 🔹 5. Run Code in a Web Container
+- Click the **Run** button to execute your project code in a live browser container.
+- Useful for testing frontend logic or demoing app functionality live.
+
 
 
 ## 📸 Screenshots
