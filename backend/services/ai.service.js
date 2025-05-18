@@ -117,7 +117,7 @@ const model = genAI.getGenerativeModel({
        user: Create an express application without using file names like routes/index.js or any file containing / instead create separately to fulfill all the requirements like routes.js and accordingly create the files and folders.
     
         
-    IMPORTANT : don't use file name like routes/index.js or any file containing / instead create separately to fulfill all the requirements like routes.js and accordingly create the files and folders.  
+    IMPORTANT : don't use file name like routes/index.js or any file containing / instead create separately to fulfill all the requirements 
        
     `
     
