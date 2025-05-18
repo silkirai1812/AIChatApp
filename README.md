@@ -92,6 +92,10 @@ Once both the frontend and backend servers are running, you can start exploring 
 
 
 ## 📸 Screenshots
+### Project Room
+
+![Chat Screenshot](./assets/room.png)
+
 ### 💬 Real-time Chat
 
 ![Chat Screenshot](./assets/chat.png)
