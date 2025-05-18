@@ -304,7 +304,7 @@ const Project = () => {
                         </div>
 
                         <div className="actions flex gap-2">
-                            <button className='p-1 text-sm rounded-md bg-slate-300 text-white' onClick={async() => {
+                            <button className='p-1 text-sm rounded-md bg-slate-300 text-white cursor-pointer' onClick={async() => {
                                 await webContainer.mount(fileTree);
                                 const installProcess = await webContainer.spawn("npm", [ "install" ])
 
@@ -355,7 +355,7 @@ const Project = () => {
                                     })
 
                                 }}
-                                className='p-1 bg-slate-300 rounded-md text-white text-sm'
+                                className='p-1 bg-slate-300 rounded-md text-white text-sm cursor-pointer'
                             >
                                 run
                             </button>
